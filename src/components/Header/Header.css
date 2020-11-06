@@ -1,0 +1,34 @@
+header {
+    background-color: #AB2A19;
+    display: flex;
+    color: white;
+    padding: 15px 50px;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.icon-and-title {
+    display: flex;
+    align-items: center;
+    margin-right: 50px;
+}
+
+.icon {
+    width: 40px;
+    margin-right: 10px;
+}
+
+header h1 {
+    margin: 0;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+    background-color: #ED6B5A;
+    padding: 6px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
